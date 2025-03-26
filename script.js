@@ -12,8 +12,8 @@ let apiResponse = false;
 
 //API Configuration
 
-const API_KEY = "AIzaSyA1bCIZyCxfNuykX13Sx-V7kS9TZZJ7yRg";
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
+const API_KEY = "";
+const API_URL = `${API_KEY}`;
 
 // saving the theme in the local storage
 
